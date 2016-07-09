@@ -9,4 +9,4 @@ build
 run
 ---
 
-    docker run -d -v /confdir:/usr/local/etc/haproxy/ dochang/cow:latest
+    docker run -d -v /confdir:/usr/local/etc/haproxy/ ferminyang/ss-relay-xgfan:latest
