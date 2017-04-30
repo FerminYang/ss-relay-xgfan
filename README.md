@@ -4,7 +4,7 @@ ss-relay based on haproxy
 build
 -----
 
-    docker build .
+    docker build -t my_ss_relay .
 
 run
 ---
